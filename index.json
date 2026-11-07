@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "novelty-eval",
+  "versions": [
+    {
+      "commit": "9b2e69f3dfb46f30ffaa38414e581ad38322bf2b",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:06:17.803997+00:00"
+    }
+  ]
+}

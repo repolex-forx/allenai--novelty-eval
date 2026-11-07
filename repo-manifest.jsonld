@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/novelty-eval/commit/9b2e69f3dfb46f30ffaa38414e581ad38322bf2b",
       "git:hexsha": "9b2e69f3dfb46f30ffaa38414e581ad38322bf2b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T20:06:17.803416+00:00"
     }
   ]
 }
